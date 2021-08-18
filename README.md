@@ -1,2 +1,2 @@
-# URLshortner
+# Java Practise
  
