@@ -11,7 +11,9 @@
 - for this we have make one function "deselect()" which will deselect after getting the current question answer from the radio button
 - we just need to make the checked false 
 - I have used "getElementById" and "getElementByName" we can also replace this with querySelector and querySelectorAll 😌
-
+- also one small diffrence between "innerText" and "innerHTML" i.e 🧐
+- innerText will just write the simple text
+- and when we use innerHTML provides to add the tags attributes whatever in the we want as similar to normal html 🤗. 
 ### From Where I am following this Challenge? 🧐
 
 - Its from Florin Pop who made such an amazing content 10hours of JavaScript and also I observed how he was thinking for any problem and 
