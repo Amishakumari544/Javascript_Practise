@@ -1,6 +1,6 @@
 # Digital Clock
 
- In this project, I learned about some basics 
+ In this project, I learned about some basics :
 
 - querySelector - method returns the first element that matches a specified CSS selector(s) in the document.
      we can also use document.getElementByID instead of querySelector()
