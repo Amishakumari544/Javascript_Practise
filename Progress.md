@@ -1,0 +1,124 @@
+# Javascript_Practise
+Quiz App
+
+## JavaScript
+
+#### Fundamentals
+  - [x] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript) [Video](https://youtu.be/papg2tsoFzg)
+   - [x] Adding JavaScript to an HTML page using `script` [Article](https://www.digitalocean.com/community/tutorials/html-script-tag)
+   - [x] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
+   - [x] Comments [Article](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
+   - [x] Variables [Article](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Video](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
+        - [x] `var` [Video](https://youtu.be/dzEieWaOJE0)
+        - [x] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
+        - [x] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
+   - [x] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+        - [x] String 
+        - [x] Boolean
+        - [x] Number 
+        - [x] null 
+        - [x] undefined
+        - [ ] Symbol [Video](https://youtu.be/4J5hnOCj69w)
+   - [x] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [ ] String functions 
+        - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+        - [x] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+        - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+        - [ ] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+        - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+        - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+        - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
+- [ ] Operators
+    - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
+        - [x] `+`
+        - [x] `-`
+        - [x] `/`
+        - [x] ` *`
+        - [x] `++` 
+        - [x] `--`
+        - [ ] `%`
+    - [ ] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
+        - [x] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
+    - [x] `<`
+    - [x] `>` 
+    - [x] `<=`
+    - [x] `>=` 
+    - [x] `==` 
+    - [x] `===`
+    - [x] `&&` 
+    - [x] `||` 
+    - [x] `Ternary operators ? , :` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+   - [ ] Loops [Article](https://www.freecodecamp.org/news/javascript-loops-explained-for-loop-for/)
+     - [x] `for` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+     - [ ] `while` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+   - [ ] Conditionals
+     - [ ] `if... else` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+     - [ ] `switch` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+ - [ ] Array [Article](https://www.javascripttutorial.net/javascript-array/)
+    - [ ] Accessing elements [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements)
+    - [x] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
+    - [ ] Array Helper Methods [Article](https://guptstagram.medium.com/es6-array-helper-methods-54bec9066b9c)  [Video](https://youtu.be/R8rmfD9Y5-c)
+    - [ ] Looping through elements 
+        - [ ] `map` [Article](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
+        - [ ] `forEach` [Article](https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/)
+    - [ ] `slice` [Article](https://www.freecodecamp.org/news/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae/) [Video](https://youtu.be/t1qDSAUclzI)
+    - [ ] `splice` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) [Video](https://youtu.be/t1qDSAUclzI)
+    - [ ] `filter` [Video](https://egghead.io/lessons/javascript-filter-an-array-with-truthy-values?af=5buvlr)
+    - [x] `push` [Video](https://egghead.io/lessons/javascript-add-elements-onto-an-array-with-push?af=5buvlr)
+    - [ ] `pop` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+    - [ ] `shift`, `unshift` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+    - [ ] `isArray` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+    - [ ] `indexOf` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) [Video](https://egghead.io/lessons/javascript-check-if-a-value-is-in-an-array-with-indexof?af=5buvlr)
+    - [ ] `from` [Video](https://egghead.io/lessons/javascript-converting-an-array-like-object-into-an-array-with-array-from?af=5buvlr)
+    - [ ] Rest and Spread [Video](https://youtu.be/DoIGxx7P-ps)
+- [ ] Object [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+     - [ ] Creating an object [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#creating_new_objects)
+     - [ ] Accessing properties [Article](https://dmitripavlutin.com/access-object-properties-javascript/)
+     - [ ] Reference and Value [Video](https://youtu.be/-hBJz2PPIVE)
+     - [ ] Object destructuring [Article](https://dmitripavlutin.com/javascript-object-destructuring/)
+     - [ ] `Object.keys` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+     - [ ] `Object.getOwnPropertyNames` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames)
+     - [ ] Looping through properties of an object 
+       - [ ] `for... of` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+       - [ ] `for...in` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+       - [ ] `forEach`, `.keys` [Article](https://masteringjs.io/tutorials/fundamentals/foreach-object)
+     - [ ] `.hasOwnProperty` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
+   - [ ] Functions [Article](https://javascript.info/function-basics) [Video](https://www.youtube.com/watch?v=N8ap4k_1QEQ&ab_channel=ProgrammingwithMosh)
+     - [ ] Named functions [Article](https://javascript.info/function-basics#function-naming)
+     - [ ] Function expressions [Article](https://javascript.info/function-expressions)
+     - [x] Arrow functions `() => { }` [Article](https://javascript.info/arrow-functions-basics)
+     - [ ] IIFE - Immediately Invoked Function Expressions [Article](https://flaviocopes.com/javascript-iife/) [Video](https://youtu.be/3cbiZV4H22c)
+   - [ ] `this` keyword [Video](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
+   - [ ] ES6 Classes [Video](https://www.youtube.com/watch?v=bq_jZY6Skto&ab_channel=freeCodeCamp.org)
+     - [ ] `constructor()`
+     - [ ] inherting classes
+   - [ ] Prototypal inheritance [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) [Article](https://www.educative.io/blog/understanding-and-using-prototypal-inheritance-in-javascript) [Video](https://egghead.io/lessons/javascript-understanding-prototypal-inheritance-within-javascript?af=5buvlr)
+     - [ ] Inheriting properties
+     - [ ] Extending properties
+     - [ ] Accessing properties and methods
+   - [ ] `setTimeout` [Video](https://www.youtube.com/watch?v=z9lJb4D3nJY&ab_channel=CodewithAniaKub%C3%B3w)
+   - [ ] `alert` [Article](https://www.educative.io/edpresso/how-to-use-the-alert-method-in-javascript)
+   - [ ] JSON objects [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+     - [ ] `JSON.stringify` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+     - [ ] `JSON.parse` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+
+
+#### Web page and JavaScript
+[Playlist](https://youtube.com/playlist?list=PLEcLwwG6Ei_g3VbCg-Q6NEF7UCXlyOqec)
+   - [x] `document.getElementById`
+   - [ ] `document.getElementsByTagName`
+   - [x] `document.getElementsByClassName`
+   - [x] `document.getElementsByName`
+   - [x] `document.querySelector`
+   - [x] `document.querySelectorAll`
+   - [ ] `.createElement`
+   - [x] `.innerHTML` 
+   - [x] `.innerText`
+   - [ ] `.append()` 
+   - [x] `.remove()`
+   - [ ] `.appendChild`
+   - [x] `.style`
+   - [x] `events`
+     - [x] `.addEventListener`
+     - [ ] `.removeEventListener`
+     - [ ] `event.preventDefault`
