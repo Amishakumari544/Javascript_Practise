@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0
+    box-sizing:border-box;
+}
+.hidden{
+    display:none
+}
+.modal{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background: #fff;
+    z-index: 2;
+    padding: 20px;
+    width: 30%;
+    border-radius:10px;
+    height:30vh;
+    box-shadow: 10px 7px 7px #cbcbcb;
+}
+.overlay{
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:100%;
+    height:100%;
+    left:0
+}
+.show-modal{
+    padding:1rem;
+    display:block;
+    cursor:pointer;
+    background:black;
+    color:#fff;
+    border:0;
+    margin-top:20px;
+    outline:0;
+}
+.close-modal{
+
+}
+h3{
+    font-weight:600;
+    text-align:center;
+    margin-top:10px;
+}
+.flex{
+    display: flex;
+    flex-direction: inherit;
+    justify-content: space-evenly;
+}
