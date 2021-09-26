@@ -1,5 +1,7 @@
 # Javascript_Practise
 Quiz App
+Modal
+Analog Clock
 
 ## JavaScript
 
