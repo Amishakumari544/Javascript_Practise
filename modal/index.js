@@ -36,3 +36,7 @@ for (let i = 1; i < showModal.length; i++) {
     modal.addEventListener('click',closemodal);
     overlay.addEventListener('click',closemodal);
 }
+
+
+// KeyPress Event
+
