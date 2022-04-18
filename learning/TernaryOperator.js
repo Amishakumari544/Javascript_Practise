@@ -10,4 +10,4 @@ console.log(eligible);
 // const tip;
 // const testData;
 const value=0;
-if ((value == 50 && 300) ? '15%' : '20% ');
+if ((value === 50 && 300) ? '15%' : '20% ');
