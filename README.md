@@ -23,15 +23,15 @@ Analog Clock
         - [ ] Symbol [Video](https://youtu.be/4J5hnOCj69w)
    - [x] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
    - [ ] String functions 
-        - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+        - [x] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
         - [x] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
         - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
-        - [ ] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
-        - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
-        - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-        - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
+        - [x] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+        - [x] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+        - [x] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+        - [x] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
 - [ ] Operators
-    - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
+    - [] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
         - [x] `+`
         - [x] `-`
         - [x] `/`
@@ -56,7 +56,7 @@ Analog Clock
    - [ ] Conditionals
      - [ ] `if... else` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
      - [ ] `switch` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
- - [ ] Array [Article](https://www.javascripttutorial.net/javascript-array/)
+ - [x] Array [Article](https://www.javascripttutorial.net/javascript-array/)
     - [ ] Accessing elements [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#accessing_array_elements)
     - [x] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length)
     - [ ] Array Helper Methods [Article](https://guptstagram.medium.com/es6-array-helper-methods-54bec9066b9c)  [Video](https://youtu.be/R8rmfD9Y5-c)
@@ -67,8 +67,8 @@ Analog Clock
     - [ ] `splice` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) [Video](https://youtu.be/t1qDSAUclzI)
     - [ ] `filter` [Video](https://egghead.io/lessons/javascript-filter-an-array-with-truthy-values?af=5buvlr)
     - [x] `push` [Video](https://egghead.io/lessons/javascript-add-elements-onto-an-array-with-push?af=5buvlr)
-    - [ ] `pop` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
-    - [ ] `shift`, `unshift` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+    - [x] `pop` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+    - [x] `shift`, `unshift` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
     - [ ] `isArray` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
     - [ ] `indexOf` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) [Video](https://egghead.io/lessons/javascript-check-if-a-value-is-in-an-array-with-indexof?af=5buvlr)
     - [ ] `from` [Video](https://egghead.io/lessons/javascript-converting-an-array-like-object-into-an-array-with-array-from?af=5buvlr)
